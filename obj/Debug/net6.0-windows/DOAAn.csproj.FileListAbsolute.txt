@@ -1,0 +1,147 @@
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\bin\Debug\net6.0-windows\DOAAn.exe
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\bin\Debug\net6.0-windows\DOAAn.deps.json
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\bin\Debug\net6.0-windows\DOAAn.runtimeconfig.json
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\bin\Debug\net6.0-windows\DOAAn.dll
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\bin\Debug\net6.0-windows\DOAAn.pdb
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.AssemblyReference.cache
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Properties.Resources.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Form2.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.GenerateResource.cache
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.AssemblyInfoInputs.cache
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.AssemblyInfo.cs
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.CoreCompileInputs.cache
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.dll
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\refint\DOAAn.dll
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.pdb
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.genruntimeconfig.cache
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\ref\DOAAn.dll
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.QuanLiNhanSu.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.FormChinh.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.CopyComplete
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Quanlisinhvien.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nganh_ChuyenNganh.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.PhanQuyen.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Danhsachsinhvien.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Diemsosinhvien.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Phanconggiangvien.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Quanlilichday.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Quyetdinhsinhvien.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Taichinhvien.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Thongtingiangvien.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Chitieu.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Chuongtrinhdaotao.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Chuyennganh.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nganh.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nhom_1_.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nhom_2_.resources
+C:\Users\nguyenkhanghuu\source\repos\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nhom_3_.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.exe
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.deps.json
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.runtimeconfig.json
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.dll
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.pdb
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.AssemblyReference.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Chitieu.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Chuongtrinhdaotao.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Chuyennganh.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Danhsachsinhvien.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Diemsosinhvien.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.FormChinh.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nganh_ChuyenNganh.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nganh.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nhom_1_.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nhom_2_.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nhom_3_.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Phanconggiangvien.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.PhanQuyen.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Properties.Resources.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Quanlilichday.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.QuanLiNhanSu.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Quanlisinhvien.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Quyetdinhsinhvien.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Taichinhvien.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Thongtingiangvien.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Form2.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.GenerateResource.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.GeneratedMSBuildEditorConfig.editorconfig
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.AssemblyInfoInputs.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.AssemblyInfo.cs
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.CoreCompileInputs.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.CopyComplete
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.dll
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\refint\DOAAn.dll
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.pdb
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.genruntimeconfig.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\ref\DOAAn.dll
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.FormDangnhap.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.exe
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.deps.json
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.runtimeconfig.json
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.pdb
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.AssemblyReference.cache
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Chitieu.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Chuongtrinhdaotao.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Chuyennganh.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Danhsachsinhvien.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Diemsosinhvien.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.FormChinh.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.FormDangnhap.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nganh_ChuyenNganh.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nganh.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nhom_1_.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nhom_2_.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Nhom_3_.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Phanconggiangvien.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.PhanQuyen.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Properties.Resources.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Quanlilichday.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.QuanLiNhanSu.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Quanlisinhvien.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Quyetdinhsinhvien.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Taichinhvien.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Thongtingiangvien.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.Form2.resources
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.GenerateResource.cache
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.AssemblyInfoInputs.cache
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.AssemblyInfo.cs
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.CoreCompileInputs.cache
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.csproj.CopyComplete
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\refint\DOAAn.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.pdb
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\DOAAn.genruntimeconfig.cache
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\obj\Debug\net6.0-windows\ref\DOAAn.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WinformProject\New folder\FormAdmin-Final Project\DOAAn\bin\Debug\net6.0-windows\DOAAn.dll.config
